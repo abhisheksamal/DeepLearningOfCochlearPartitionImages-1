@@ -1,4 +1,4 @@
-# DeepLearningOfCochlearPartitionImages
+# Deep Learning Of Cochlear Partition Images
 
 Excuse our look at this time as we collaborate on this work in progress! Currently four group members are contributing their own variations of Raft.ipynb files to make parallel progress.
 
