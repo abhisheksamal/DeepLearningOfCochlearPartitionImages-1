@@ -14,4 +14,10 @@ Our goal is to create a network that will use optical flow techniques to estimat
 
 5)  Main code runs and imports data. The data is pre-processed, pushed through a small, pretrained RAFT model. Output colored images are displayed to try to visualize the optical flow.
 
+![CohcleaDataSample](https://user-images.githubusercontent.com/48164184/162343901-f901e60b-d73a-4a6e-aad0-c17d6236f1c2.PNG)
+a) Raw data, cropped to the section we expect the Regions of Interest (ROI) to be.
+
+![OpticalFlowRawOutput](https://user-images.githubusercontent.com/48164184/162343997-16b17e28-d235-4a71-b1b1-a96c3b12312b.PNG)
+b) Raw out put of optical flow
+
 6)  There are sections commented out which have potential to save images, and even create GIF files from the saved images.
